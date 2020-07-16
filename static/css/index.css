@@ -1,0 +1,371 @@
+/* Overall container */
+.container-fluid {
+  width: 100%;
+  min-height: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0px;
+  background-color: #fff
+}
+/* Making body full length of screen */
+html, body {
+  height: 100%;
+}
+.navbar{
+    background-color: #202020;
+  }
+/* Logo in navbar row */
+.navbar-brand{
+    /* background-color: #696969; */
+    padding: 5px;
+    font-size: 21px;
+    margin-left: 50px;
+  }
+/* index.html navbar*/
+#navvy_a {
+  margin-top: 3px;
+  margin-right: 0px;
+} 
+/* dashboard.html push navbar off right wall */
+.navvy_b {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 50px;
+} 
+/* Full width, white header */
+.theheader {
+    width: 100%;
+    padding: 0px;
+}
+/* Alters viewing height of content */
+.row-background {
+  min-height: 60vh;
+  background-color: #fff;
+}
+/* dashboard - choropleth map */
+#mapbox {
+  background-color: #fff;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  border-top: 25px solid #fff;
+  border-left: 75px solid #fff;
+  border-right: 75px solid #fff;
+  border-bottom: 25px solid #fff;
+}
+/* dashboard - flags container */
+.flagbox {
+  background-color: #ffff;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  border-top: 0px solid #fff;
+  border-left: 75px solid #fff;
+  border-right: 75px solid #fff;
+  border-bottom: 25px solid #fff;
+}
+/* Left statiscal container - dashboard */
+#dataL {
+  border-left: 50px solid #fff;
+}
+/* Middle right statiscal container - dashboard */
+#dataMR {
+  background: rgb(179,33,37);
+}
+/* Far right statiscal container - dashboard */
+#dataR {
+  border-right: 50px solid #fff;
+  background: rgb(86,86,86);
+}
+/* Statiscal data containers - dashboard */
+.data {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 5px;
+  border-top: 60px solid #fff;
+  border-left: 15px solid #fff;
+  border-right: 15px solid #fff;
+  border-bottom: 30px solid #fff;
+}
+/* Statical data color and alignment - dashboard */
+.stat {
+  text-align: right;
+  color: #fff;
+}
+/* Title for statiscal data - dashboard */
+.data-title {
+  color: #fff;
+  padding-top:10px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  /* line-height: 30px; */
+}
+/* dashboard - bar graph */
+.bar_graph {
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
+  background-color: #fff;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 5px;
+  border-top: 25px solid #fff;
+  border-left: 50px solid #fff;
+  border-right: 15px solid #fff;
+  border-bottom: 25px solid #fff;
+}
+
+/* dashboard - line graph */
+.line_graph {
+  background-color: #fff;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 0px;
+  padding-bottom: 5px;
+  border-top: 25px solid #fff;
+  border-left: 15px solid #fff;
+  border-right: 50px solid #fff;
+  border-bottom: 25px solid #FFF;
+}
+/* state flags */
+img {
+  width: 100%;
+  max-width: 323px;
+  margin-left: auto;
+  margin-right:auto;
+}
+/* allows hover to work */
+.flag {
+  padding: 10px;
+  border: 3px;
+}
+/* Hover function for flags */
+.flag:hover { 
+  border: 3px solid #202020; 
+}
+/* titles on index */
+.title{
+  padding-bottom: 10px;
+}
+/* Paragraphs */
+p {
+  padding-top:20px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+}
+/* Line under statiscal data title - dashboard */
+hr {
+  padding: 0px;
+  margin: 0px !important;
+}
+/* footer of page */
+.copyright {
+    background-color:#202020;
+    /* border-top: 10px solid darkgreen ; */
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width:100%;
+}
+
+/* CHOROPLETH CSS START */
+/* Map size */
+#map,
+body,
+html {
+  height: 80%;
+  width: 100%;
+}
+
+.leaflet-popup-content {
+  text-align: center;
+}
+
+/* CSS from the Leaflet-Choropleth documentation */
+.legend {
+  padding: 6px 8px;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #555;
+  background: #fff;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend ul {
+  padding: 0;
+  margin: 0;
+  clear: both;
+  list-style-type: none;
+}
+
+.legend li {
+  display: inline-block;
+  width: 25px;
+  height: 15px;
+}
+
+.legend .min {
+  float: left;
+  padding-bottom: 5px;
+}
+
+.legend .max {
+  float: right;
+}
+
+h1 {
+  font-size: large;
+  text-align: center;
+}
+/* CHOROPLETH CSS END */
+
+/* Small screen changes */
+@media (max-width: 992px) {
+  /* header */
+  .theheader {
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color:#202020;
+  }
+  /* Make navbar taller */
+  .navbar-brand {
+    background-color:#202020;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  /* background of dropdown in navbar */
+  .navvy_a {
+    background-color:#fff;
+    padding-left: 10px;
+    margin-right:0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  } 
+  /* background of dropdown in navbar - dashboard */
+  .navvy_b {
+    background-color:#fff;
+    padding-left: 10px;
+    margin-right:0px;
+    margin-left: 0px;
+  } 
+  /* dashboard.html push navbar off right wall */
+
+  /* Dropdown City Data color */
+  #navbarDropdown {
+    color: #696969!important;
+  }
+   /* Dropdown Homepage color */
+   #homepage-link {
+    color: #696969 !important;
+    margin-left: 0px !important;
+  }
+  /* push dropdown menu items off the wall of page */
+  .navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 25px;
+    margin-top: 2px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 2px;
+  }
+  /* push hamburger off right wall */
+  .navbar-dark .navbar-toggler {
+    border-color: #ffff;
+    margin-right: 30px;
+  }
+  /* Plots dropdown in navbar */
+  .dropdown-toggle {
+    margin-top: 0px;
+    padding: 5px;
+  }
+  /* Change Plots (navbar) color when clicked */
+  .navbar-dark .navbar-nav .show>.nav-link {
+    background-color: #DCDCDC;
+    margin-top: 0px;
+    border-radius: 5px;
+    border: 2px solid #DCDCDC;
+    padding: 5px;
+  }
+  /* Push box in dropdown menu away from edges */
+  .dropdown, .dropleft, .dropright, .dropup {
+    position: relative;
+    padding-top: 10px;
+  }
+  /* Round edges in box around down menu */
+  .dropdown-menu {
+    border-radius: 10px;
+  }
+  /* Push box in dropdown menu away from edges */
+  .dropdown, .dropleft, .dropright, .dropup {
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 5px;
+  }
+  /* Round edges in box around down menu */
+  .dropdown-menu {
+    border-radius: 10px;
+  }
+  /* Move dropdown menu away from margins */
+  .dropdown-menu.show {
+    display: block;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  /* Far right statiscal data */
+  #dataR {
+    border-top: 25px solid #fff;
+    border-bottom:25px solid #fff;
+    border-right: 50px solid #FFF;
+    border-left: 15px solid #FFF;
+  }
+  /* Far left statiscal data */
+  #dataL {
+    border-top: 40px solid #fff;
+    border-bottom:0px solid #fff;
+    border-left: 50px solid #FFF;
+    border-right: 15px solid #FFF;
+  }
+  /* Middle left statistical data */
+  #dataML {
+    border-top: 40px solid #fff;
+    border-bottom:0px solid #fff;
+    border-right: 50px solid #FFF;
+    border-left: 15px solid #FFF;
+  }
+  /* Middle right statiscal data */
+  #dataMR {
+    border-top: 25px solid #fff;
+    border-bottom: 25px solid #fff;
+    border-left: 50px solid #FFF;
+    border-right: 15px solid #FFF;
+  }
+  /* bar graph small screen */
+  .bar_graph {
+      /* display: block;
+      margin-left: auto;
+      margin-right: auto; */
+      padding:10px;
+      padding-top: 0px;
+      border-top: 25px solid #FFF;
+      border-bottom: 15px solid #FFF;
+      border-left: 30px solid #FFF;
+      border-right: 30px solid #FFF;
+  }
+  /* line graph small screen */
+  .line_graph {
+      padding: 10px;
+      padding-top: 0px;
+      border-top: 15px solid #FFF;
+      border-bottom: 75px solid #FFF;
+      border-left: 30px solid #FFF;
+      border-right: 30px solid #FFF;
+  }
+}

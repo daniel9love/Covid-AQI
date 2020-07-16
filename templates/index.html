@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bootstrap Components</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <!-- Our CSS -->
+  <link rel="stylesheet" href="../static/css/index.css">
+  <link rel="stylesheet" type="text/css" media="(max-width: 992px)" href="../static/css/index.css" />
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+  <!-- d3 JavaScript -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+  <!-- Overall conatainer -->
+  <div class="container-fluid">
+    <!-- ROW 1 Navbar-->
+    <div class="row sticky-top">
+      <!-- Navbar -->
+      <nav class="navbar navbar-expand-lg navbar-dark theheader">
+        <!-- Page Title -->
+        <a class="navbar-brand text-white" href="http://127.0.0.1:5000/">Covid 19 Effects on Air Quality</a>
+        <!-- Hamburger toggler button -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon hamburger"></span>
+        </button>
+        <!-- City dropdown links to visuals -->
+        <div class="collapse navbar-collapse navvy_a" id="navbarSupportedContent">
+          <ul class="navbar-nav col-lg-4 ml-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: medium;">
+                City Data
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="http://127.0.0.1:5000/boise">Boise, Idaho</a> 
+                <a class="dropdown-item" href="http://127.0.0.1:5000/columbus">Columbus, Ohio</a> 
+                <a class="dropdown-item" href="http://127.0.0.1:5000/detroit">Detroit, Michigan</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/indianapolis">Indianapolis, Indiana</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/milwaukee">Milwaukee, Wisconsin</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/la">Los Angeles, California</a> 
+                <a class="dropdown-item" href="http://127.0.0.1:5000/neworleans">New Orleans, Louisiana</a> 
+                <a class="dropdown-item" href="http://127.0.0.1:5000/ny">New York City, New York</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/portland">Portland, Oregon</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/seattle">Seattle, Washington</a> 
+              </div>
+            </li>
+            <!-- Homepage Link -->
+            <li class="nav-item">
+              <a class="nav-link text-white" id="homepage-link" href="http://127.0.0.1:5000/" style="font-size: medium;"> US Map</a>
+            </li>
+          </ul>
+        </div>
+      </nav><!-- closes Navbar -->
+    </div><!-- closes ROW 1 -->
+    <!-- ROW 2 Choropleth Map -->
+    <div class="row row-background align-items-start"> 
+      <!-- Choropleth Map Section -->
+      <div class="col-sm-12 rounded" id="mapbox">
+				<h3 class="title text-center">US Cities AQI Averages Post Shelter in Place Ordinance</h3>
+        <div id="map" style= "height: 650px"></div>
+				<p >This Choropleth Graph shows the average AQI values of the largest city
+					in each of the 50 states. The average is calculated from the day after the state
+					declared their Shelter in Place Ordinance until April 10th, 2020. Salt Lake City and 
+					Oklahoma City only had county wide ordinances. Arkansas, Iowa, Nebraska, North Dakota, 
+					South Dakota and Wyoming all did not have state ordinance so their average AQI is over
+					the month of April.  
+				</p>		
+			</div><!-- closes Choropleth Map Section -->
+    </div> <!-- closes ROW 2  --> 
+    <!-- ROW 3 Flag Links -->
+    <div class="row">
+      <div class="col-md-12 text-center flagbox">
+        <h3 class="title text-center">Key Cities</h3>
+        <div class="row">
+          <div class="col-md-1" style="width:10px; padding: 0px;">
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/boise">Boise<br><img alt="Bootstrap Image Preview" src="../static/images/boise_flag.png" /></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/columbus">Columbus<br><img alt="Bootstrap Image Preview" src="../static/images/columbus_flag.png" /></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/detroit">Detroit<br><img alt="Bootstrap Image Preview" src="../static/images/detroit_flag.png" /></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/indianapolis">Indianapolis<br><img alt="Bootstrap Image Preview" src="../static/images/indianapolis_flag.png" /></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/milwaukee">Milwaukee<br><img alt="Bootstrap Image Preview" src="../static/images/milwaukee_flag.png" /></a>
+          </div>
+          <div class="col-md-1" style="width:10px; padding: 0px;">
+          </div>
+        </div>
+        <div class="row" style="padding-top: 10px;">
+          <div class="col-md-1" style="width:10px; padding: 0px;">
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/la">Los Angeles<br><img alt="Bootstrap Image Preview" src="../static/images/losangeles_flag.jpg"/></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/neworleans">New Orleans<br><img alt="Bootstrap Image Preview" src="../static/images/no_flag.jpg"/></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/ny">New York City<br><img alt="Bootstrap Image Preview" src="../static/images/nyc_flag.png"/></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/portland">Portland<br><img alt="Bootstrap Image Preview" src="../static/images/portland_flag.png"/></a>
+          </div>
+          <div class="col-md-2 col-sm-12 flag">
+            <a href="http://127.0.0.1:5000/seattle">Seattle<br><img alt="Bootstrap Image Preview" src="../static/images/seattle_flag.png"/></a>
+          </div>
+          <div class="col-md-1" style="width:10px; padding: 0px;">
+          </div>
+        </div>
+      </div>
+    </div><!-- closes ROW 3Flag links -->
+    <!-- ROW 4 Footer -->
+    <div class="row">
+      <p class="text-center copyright">
+          © Copyright © DANIEL LOVE, NANCY MATHUR, ANGIE ONG & CHAD GIELOW 2020
+      </p>
+    </div> <!-- closes ROW 4 Footer -->
+  </div> <!-- closes Container  --> 
+<!-- Leaflet-Choropleth JavaScript -->
+<script type="text/javascript" src="../static/js/choropleth.js"></script> 
+<!-- Map scripts -->
+<script type="text/javascript" src="../static/js/config.js"></script>
+<script type="text/javascript" src="../static/js/index.js"></script>
+<!-- Bootstrap Code to use their tools -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>

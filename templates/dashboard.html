@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bootstrap Components</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="../static/css/index.css">
+  <link rel="stylesheet" type="text/css" media="(max-width: 992px)" href="../static/css/index.css" />
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+  <!-- Overall conatainer -->
+  <div class="container-fluid">
+    <!-- ROW 1 Navbar-->
+    <div class="row sticky-top">
+      <!-- Navbar -->
+      <nav class="navbar navbar-expand-lg navbar-dark theheader">
+        <!-- Page Title -->
+        <a class="navbar-brand text-white" href="http://127.0.0.1:5000/" style="margin-right: 100px;">Covid 19 Effects on Air Quality</a>
+        <a class="nav-link text-white" id="homepage-link" href="http://127.0.0.1:5000/" style="font-size: medium; margin-left: 100px;">US Map</a>
+        <!-- Hamburger toggler button -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon hamburger"></span>
+        </button>
+        <!-- City dropdown links to visuals -->
+        <div class="collapse navbar-collapse navvy_b" id="navbarSupportedContent" >
+          <select class="form-control" id="selDataset" >
+            <option value="{{urlOne}}">Choose a City</option>
+            <option value="boise">Boise, Idaho</option>
+            <option value="columbus">Columbus, Ohio</option>
+            <option value="detroit">Detroit, Michigan</option>
+            <option value="indianapolis">Indianapolis, Indiana</option>
+            <option value="milwaukee">Milwaukee, Wisconsin</option>
+            <option value="la">Los Angeles, California</option>
+            <option value="neworleans">New Orleans, Louisiana</option>
+            <option value="ny">New York City, New York</option>
+            <option value="portland">Portland, Oregon</option>
+            <option value="seattle">Seattle, Washington</option>
+          </select>
+        </div>
+      </nav><!-- closes Navbar -->
+    </div><!-- closes ROW 1 -->
+    <!-- ROW 2 Statistical Data -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row rounded">
+          <div class="col-lg-3 col-sm-6 data rounded" id="dataL" style="background-color:rgb(17,138,83)">
+            <p class="data-title">2019-2020 AQI Average</p>
+            <hr>
+            <h2 class="stat" id="pre"></h2>
+          </div>
+          <div class="col-lg-3 col-sm-6 data rounded" id="dataML" style="background:rgb(17,138,83)">
+            <p class="data-title">Post Ordinance AQI Average</p>
+            <hr>
+            <h2 class="stat" id="post"></h2>
+          </div>
+          <div class="col-lg-3 col-sm-6 data rounded" id="dataMR">
+            <p class="data-title">Shelter in Place Ordinance</p>
+            <hr>
+            <h2 class="stat" id="shelterDate"></h2>
+          </div>
+          <div class="col-lg-3 col-sm-6 data rounded" id="dataR">
+            <p class="data-title">City Population</p>
+            <hr>
+            <h2 class="stat" id="population"></h2>
+          </div>
+        </div>
+      </div>
+    </div><!-- closes ROW 2 -->
+    <!-- ROW 3 Graphs -->
+    <div class="row row-background align-items-start"> 
+      <!-- Bar Graph Section -->
+      <div class="col-lg-6 col-md-12 bar_graph">
+          
+          <div id="chart" style="max-width: 900px; min-height: 400px; margin: 25px; margin-left: 0px;"></div>
+      
+      </div><!-- Closes bar graph section -->
+      <!-- Line graph Secion -->
+      <div class="col-lg-6 col-md-12 line_graph">
+    
+        <div id="chartContainer" style="max-width: 900px; min-height: 400px; margin: 25px"></div>
+
+      </div> <!-- closes line graph Section -->
+    </div> <!-- closes ROW 3  Graphs--> 
+  </div> <!-- closes Container  --> 
+  <!-- ROW 4 Footer -->
+  <div class="row fixed-bottom">
+    <p class="text-center copyright">
+        © Copyright © DANIEL LOVE, NANCY MATHUR, ANGIE ONG & CHAD GIELOW 2020
+    </p>
+  </div> <!-- closes ROW 4 Footer -->
+<!-- Graph scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/4.6.0/echarts-en.min.js"></script>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="../static/js/dashboard.js"></script>
+<!-- Bootstrap Code to use their tools -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>

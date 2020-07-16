@@ -1,0 +1,801 @@
+Date,AQI,mainPollutant,City,State
+4/5/2020,58,Ozone,Birmingham,Alabama
+4/6/2020,74,Ozone,Birmingham,Alabama
+4/7/2020,60,PM2.5,Birmingham,Alabama
+4/8/2020,56,PM2.5,Birmingham,Alabama
+4/9/2020,44,Ozone,Birmingham,Alabama
+4/10/2020,46,Ozone,Birmingham,Alabama
+4/11/2020,58,Ozone,Birmingham,Alabama
+4/12/2020,59,PM2.5,Birmingham,Alabama
+4/13/2020,48,PM2.5,Birmingham,Alabama
+3/29/2020,21,PM2.5,Anchorage,Alaska
+3/30/2020,23,PM2.5,Anchorage,Alaska
+3/31/2020,24,PM2.5,Anchorage,Alaska
+4/1/2020,21,PM2.5,Anchorage,Alaska
+4/2/2020,18,PM2.5,Anchorage,Alaska
+4/3/2020,15,PM2.5,Anchorage,Alaska
+4/4/2020,19,PM2.5,Anchorage,Alaska
+4/5/2020,13,PM2.5,Anchorage,Alaska
+4/6/2020,13,PM2.5,Anchorage,Alaska
+4/7/2020,13,PM2.5,Anchorage,Alaska
+4/8/2020,9,PM2.5,Anchorage,Alaska
+4/9/2020,18,PM2.5,Anchorage,Alaska
+4/10/2020,28,PM2.5,Anchorage,Alaska
+4/11/2020,35,PM2.5,Anchorage,Alaska
+4/12/2020,25,PM2.5,Anchorage,Alaska
+4/13/2020,17,PM2.5,Anchorage,Alaska
+4/1/2020,74,Ozone,Phoenix,Arizona
+4/2/2020,50,Ozone,Phoenix,Arizona
+4/3/2020,58,Ozone,Phoenix,Arizona
+4/4/2020,71,Ozone,Phoenix,Arizona
+4/5/2020,48,Ozone,Phoenix,Arizona
+4/6/2020,48,Ozone,Phoenix,Arizona
+4/7/2020,46,Ozone,Phoenix,Arizona
+4/8/2020,40,Ozone,Phoenix,Arizona
+4/9/2020,58,Ozone,Phoenix,Arizona
+4/10/2020,74,Ozone,Phoenix,Arizona
+4/11/2020,45,Ozone,Phoenix,Arizona
+4/12/2020,47,Ozone,Phoenix,Arizona
+4/13/2020,46,Ozone,Phoenix,Arizona
+4/1/2020,51,Ozone,Little Rock,Arkansas
+4/2/2020,50,PM2.5,Little Rock,Arkansas
+4/3/2020,50,PM2.5,Little Rock,Arkansas
+4/4/2020,28,PM2.5,Little Rock,Arkansas
+4/5/2020,43,Ozone,Little Rock,Arkansas
+4/6/2020,46,PM2.5,Little Rock,Arkansas
+4/7/2020,46,PM2.5,Little Rock,Arkansas
+4/8/2020,53,PM2.5,Little Rock,Arkansas
+4/10/2020,41,Ozone,Little Rock,Arkansas
+4/11/2020,40,PM2.5,Little Rock,Arkansas
+4/12/2020,41,Ozone,Little Rock,Arkansas
+4/13/2020,37,Ozone,Little Rock,Arkansas
+3/20/2020,43,Ozone,Los Angeles,California
+3/21/2020,47,Ozone,Los Angeles,California
+3/22/2020,43,Ozone,Los Angeles,California
+3/23/2020,45,Ozone,Los Angeles,California
+3/24/2020,43,Ozone,Los Angeles,California
+3/25/2020,44,Ozone,Los Angeles,California
+3/26/2020,45,Ozone,Los Angeles,California
+3/27/2020,47,Ozone,Los Angeles,California
+3/28/2020,54,Ozone,Los Angeles,California
+3/29/2020,54,Ozone,Los Angeles,California
+3/30/2020,54,Ozone,Los Angeles,California
+3/31/2020,74,Ozone,Los Angeles,California
+4/1/2020,67,Ozone,Los Angeles,California
+4/2/2020,50,PM2.5,Los Angeles,California
+4/3/2020,54,Ozone,Los Angeles,California
+4/4/2020,51,Ozone,Los Angeles,California
+4/5/2020,37,Ozone,Los Angeles,California
+4/6/2020,42,Ozone,Los Angeles,California
+4/7/2020,40,Ozone,Los Angeles,California
+4/8/2020,43,Ozone,Los Angeles,California
+4/9/2020,35,Ozone,Los Angeles,California
+4/10/2020,42,Ozone,Los Angeles,California
+4/11/2020,49,Ozone,Los Angeles,California
+4/12/2020,40,Ozone,Los Angeles,California
+4/13/2020,38,Ozone,Los Angeles,California
+3/27/2020,45,Ozone,Denver,Colorado
+3/28/2020,50,Ozone,Denver,Colorado
+3/29/2020,47,Ozone,Denver,Colorado
+3/30/2020,45,Ozone,Denver,Colorado
+3/31/2020,48,Ozone,Denver,Colorado
+4/1/2020,51,Ozone,Denver,Colorado
+4/2/2020,31,Ozone,Denver,Colorado
+4/3/2020,41,PM2.5,Denver,Colorado
+4/4/2020,44,Ozone,Denver,Colorado
+4/5/2020,48,Ozone,Denver,Colorado
+4/6/2020,54,Ozone,Denver,Colorado
+4/7/2020,64,Ozone,Denver,Colorado
+4/8/2020,51,Ozone,Denver,Colorado
+4/9/2020,50,Ozone,Denver,Colorado
+4/10/2020,54,Ozone,Denver,Colorado
+4/11/2020,58,Ozone,Denver,Colorado
+4/12/2020,44,Ozone,Denver,Colorado
+4/13/2020,44,Ozone,Denver,Colorado
+3/24/2020,43,Ozone,Bridgeport,Connecticut
+3/25/2020,40,Ozone,Bridgeport,Connecticut
+3/26/2020,39,Ozone,Bridgeport,Connecticut
+3/27/2020,48,Ozone,Bridgeport,Connecticut
+3/28/2020,46,Ozone,Bridgeport,Connecticut
+3/29/2020,46,Ozone,Bridgeport,Connecticut
+3/30/2020,38,Ozone,Bridgeport,Connecticut
+3/31/2020,43,Ozone,Bridgeport,Connecticut
+4/1/2020,47,Ozone,Bridgeport,Connecticut
+4/2/2020,44,Ozone,Bridgeport,Connecticut
+4/3/2020,38,Ozone,Bridgeport,Connecticut
+4/4/2020,44,Ozone,Bridgeport,Connecticut
+4/5/2020,43,PM2.5,Bridgeport,Connecticut
+4/6/2020,44,Ozone,Bridgeport,Connecticut
+4/7/2020,51,Ozone,Bridgeport,Connecticut
+4/8/2020,44,Ozone,Bridgeport,Connecticut
+4/9/2020,46,Ozone,Bridgeport,Connecticut
+4/10/2020,41,Ozone,Bridgeport,Connecticut
+4/11/2020,48,Ozone,Bridgeport,Connecticut
+4/12/2020,51,Ozone,Bridgeport,Connecticut
+4/13/2020,50,Ozone,Bridgeport,Connecticut
+3/25/2020,39,Ozone,Dover,Delaware
+3/26/2020,37,PM2.5,Dover,Delaware
+3/27/2020,39,PM2.5,Dover,Delaware
+3/28/2020,43,Ozone,Dover,Delaware
+3/29/2020,33,PM2.5,Dover,Delaware
+3/30/2020,38,Ozone,Dover,Delaware
+3/31/2020,39,Ozone,Dover,Delaware
+4/1/2020,42,Ozone,Dover,Delaware
+4/2/2020,44,Ozone,Dover,Delaware
+4/3/2020,39,Ozone,Dover,Delaware
+4/4/2020,33,Ozone,Dover,Delaware
+4/5/2020,37,Ozone,Dover,Delaware
+4/6/2020,44,Ozone,Dover,Delaware
+4/7/2020,54,PM2.5,Dover,Delaware
+4/8/2020,46,Ozone,Dover,Delaware
+4/9/2020,45,Ozone,Dover,Delaware
+4/10/2020,39,Ozone,Dover,Delaware
+4/11/2020,44,Ozone,Dover,Delaware
+4/12/2020,47,Ozone,Dover,Delaware
+4/13/2020,43,Ozone,Dover,Delaware
+4/4/2020,84,Ozone,Jacksonville,Florida
+4/5/2020,57,PM2.5,Jacksonville,Florida
+4/6/2020,46,Ozone,Jacksonville,Florida
+4/7/2020,51,Ozone,Jacksonville,Florida
+4/8/2020,48,PM2.5,Jacksonville,Florida
+4/9/2020,59,PM2.5,Jacksonville,Florida
+4/10/2020,48,PM2.5,Jacksonville,Florida
+4/11/2020,54,Ozone,Jacksonville,Florida
+4/12/2020,57,PM2.5,Jacksonville,Florida
+4/13/2020,61,PM2.5,Jacksonville,Florida
+4/4/2020,54,PM2.5,Atlanta,Georgia
+4/5/2020,71,PM2.5,Atlanta,Georgia
+4/6/2020,61,PM2.5,Atlanta,Georgia
+4/7/2020,76,PM2.5,Atlanta,Georgia
+4/8/2020,66,PM2.5,Atlanta,Georgia
+4/9/2020,43,Ozone,Atlanta,Georgia
+4/10/2020,44,Ozone,Atlanta,Georgia
+4/11/2020,50,Ozone,Atlanta,Georgia
+4/12/2020,63,PM2.5,Atlanta,Georgia
+4/13/2020,42,Ozone,Atlanta,Georgia
+3/26/2020,36,Ozone,Honolulu,Hawaii
+3/27/2020,45,PM2.5,Honolulu,Hawaii
+3/28/2020,32,Ozone,Honolulu,Hawaii
+3/29/2020,26,Ozone,Honolulu,Hawaii
+3/30/2020,25,PM2.5,Honolulu,Hawaii
+3/31/2020,20,Ozone,Honolulu,Hawaii
+4/1/2020,34,Ozone,Honolulu,Hawaii
+4/2/2020,22,Ozone,Honolulu,Hawaii
+4/3/2020,23,Ozone,Honolulu,Hawaii
+4/4/2020,20,Ozone,Honolulu,Hawaii
+4/5/2020,20,Ozone,Honolulu,Hawaii
+4/6/2020,21,Ozone,Honolulu,Hawaii
+4/7/2020,25,Ozone,Honolulu,Hawaii
+4/8/2020,30,Ozone,Honolulu,Hawaii
+4/9/2020,27,Ozone,Honolulu,Hawaii
+4/10/2020,26,Ozone,Honolulu,Hawaii
+4/11/2020,35,Ozone,Honolulu,Hawaii
+4/12/2020,37,Ozone,Honolulu,Hawaii
+4/13/2020,33,Ozone,Honolulu,Hawaii
+3/26/2020,35,Ozone,Boise,Idaho
+3/27/2020,41,PM2.5,Boise,Idaho
+3/28/2020,36,Ozone,Boise,Idaho
+3/29/2020,31,Ozone,Boise,Idaho
+3/30/2020,28,Ozone,Boise,Idaho
+3/31/2020,31,Ozone,Boise,Idaho
+4/1/2020,34,Ozone,Boise,Idaho
+4/2/2020,34,Ozone,Boise,Idaho
+4/3/2020,32,Ozone,Boise,Idaho
+4/4/2020,32,Ozone,Boise,Idaho
+4/5/2020,29,Ozone,Boise,Idaho
+4/6/2020,31,Ozone,Boise,Idaho
+4/7/2020,31,Ozone,Boise,Idaho
+4/8/2020,36,Ozone,Boise,Idaho
+4/9/2020,41,Ozone,Boise,Idaho
+4/10/2020,40,PM2.5,Boise,Idaho
+4/11/2020,44,Ozone,Boise,Idaho
+4/12/2020,44,Ozone,Boise,Idaho
+4/13/2020,41,Ozone,Boise,Idaho
+3/22/2020,49,PM2.5,Chicago,Illinois
+3/23/2020,60,PM2.5,Chicago,Illinois
+3/24/2020,77,PM2.5,Chicago,Illinois
+3/25/2020,66,PM2.5,Chicago,Illinois
+3/26/2020,61,PM2.5,Chicago,Illinois
+3/27/2020,61,PM2.5,Chicago,Illinois
+3/28/2020,54,PM2.5,Chicago,Illinois
+3/29/2020,38,Ozone,Chicago,Illinois
+3/30/2020,41,PM2.5,Chicago,Illinois
+3/31/2020,33,Ozone,Chicago,Illinois
+4/1/2020,57,PM2.5,Chicago,Illinois
+4/2/2020,53,PM2.5,Chicago,Illinois
+4/3/2020,61,PM2.5,Chicago,Illinois
+4/4/2020,41,PM2.5,Chicago,Illinois
+4/5/2020,43,Ozone,Chicago,Illinois
+4/6/2020,56,PM2.5,Chicago,Illinois
+4/7/2020,57,PM2.5,Chicago,Illinois
+4/8/2020,60,PM2.5,Chicago,Illinois
+4/9/2020,45,PM2.5,Chicago,Illinois
+4/10/2020,41,Ozone,Chicago,Illinois
+4/11/2020,55,PM2.5,Chicago,Illinois
+4/12/2020,49,PM2.5,Chicago,Illinois
+4/13/2020,43,Ozone,Chicago,Illinois
+3/25/2020,55,PM2.5,Indianapolis,Indiana
+3/26/2020,52,PM2.5,Indianapolis,Indiana
+3/27/2020,56,PM2.5,Indianapolis,Indiana
+3/28/2020,58,PM2.5,Indianapolis,Indiana
+3/29/2020,44,Ozone,Indianapolis,Indiana
+3/30/2020,44,Ozone,Indianapolis,Indiana
+3/31/2020,45,PM2.5,Indianapolis,Indiana
+4/1/2020,54,PM2.5,Indianapolis,Indiana
+4/2/2020,68,PM2.5,Indianapolis,Indiana
+4/3/2020,65,PM2.5,Indianapolis,Indiana
+4/4/2020,65,PM2.5,Indianapolis,Indiana
+4/5/2020,55,PM2.5,Indianapolis,Indiana
+4/6/2020,67,PM2.5,Indianapolis,Indiana
+4/7/2020,55,PM2.5,Indianapolis,Indiana
+4/8/2020,55,PM2.5,Indianapolis,Indiana
+4/9/2020,42,Ozone,Indianapolis,Indiana
+4/10/2020,39,Ozone,Indianapolis,Indiana
+4/11/2020,49,Ozone,Indianapolis,Indiana
+4/12/2020,43,PM2.5,Indianapolis,Indiana
+4/13/2020,38,Ozone,Indianapolis,Indiana
+4/1/2020,39,Ozone,Des Moines,Iowa
+4/2/2020,36,Ozone,Des Moines,Iowa
+4/3/2020,29,Ozone,Des Moines,Iowa
+4/4/2020,33,Ozone,Des Moines,Iowa
+4/5/2020,40,Ozone,Des Moines,Iowa
+4/6/2020,31,PM2.5,Des Moines,Iowa
+4/7/2020,44,PM2.5,Des Moines,Iowa
+4/8/2020,56,PM2.5,Des Moines,Iowa
+4/9/2020,37,Ozone,Des Moines,Iowa
+4/10/2020,40,Ozone,Des Moines,Iowa
+4/11/2020,59,PM2.5,Des Moines,Iowa
+4/12/2020,53,PM2.5,Des Moines,Iowa
+4/13/2020,37,Ozone,Des Moines,Iowa
+3/31/2020,44,Ozone,Wichita,Kansas
+4/1/2020,42,Ozone,Wichita,Kansas
+4/2/2020,39,Ozone,Wichita,Kansas
+4/3/2020,31,Ozone,Wichita,Kansas
+4/4/2020,113,PM2.5,Wichita,Kansas
+4/5/2020,72,PM2.5,Wichita,Kansas
+4/6/2020,29,PM2.5,Wichita,Kansas
+4/7/2020,42,PM2.5,Wichita,Kansas
+4/8/2020,58,Ozone,Wichita,Kansas
+4/9/2020,44,Ozone,Wichita,Kansas
+4/10/2020,41,Ozone,Wichita,Kansas
+4/11/2020,40,Ozone,Wichita,Kansas
+4/12/2020,34,Ozone,Wichita,Kansas
+4/13/2020,37,Ozone,Wichita,Kansas
+3/27/2020,62,PM2.5,Louisville,Kentucky
+3/28/2020,59,PM2.5,Louisville,Kentucky
+3/29/2020,43,Ozone,Louisville,Kentucky
+3/30/2020,44,Ozone,Louisville,Kentucky
+3/31/2020,33,Ozone,Louisville,Kentucky
+4/1/2020,29,Ozone,Louisville,Kentucky
+4/2/2020,51,PM2.5,Louisville,Kentucky
+4/3/2020,61,PM2.5,Louisville,Kentucky
+4/4/2020,75,PM2.5,Louisville,Kentucky
+4/5/2020,52,PM2.5,Louisville,Kentucky
+4/6/2020,56,PM2.5,Louisville,Kentucky
+4/7/2020,61,PM2.5,Louisville,Kentucky
+4/8/2020,48,PM2.5,Louisville,Kentucky
+4/9/2020,44,Ozone,Louisville,Kentucky
+4/10/2020,40,Ozone,Louisville,Kentucky
+4/11/2020,56,PM2.5,Louisville,Kentucky
+4/12/2020,47,PM2.5,Louisville,Kentucky
+4/13/2020,34,Ozone,Louisville,Kentucky
+3/24/2020,40,PM2.5,New Orleans,Louisiana
+3/25/2020,67,Ozone,New Orleans,Louisiana
+3/26/2020,61,Ozone,New Orleans,Louisiana
+3/27/2020,41,PM2.5,New Orleans,Louisiana
+3/28/2020,72,PM2.5,New Orleans,Louisiana
+3/29/2020,44,Ozone,New Orleans,Louisiana
+3/30/2020,42,Ozone,New Orleans,Louisiana
+3/31/2020,43,Ozone,New Orleans,Louisiana
+4/1/2020,48,Ozone,New Orleans,Louisiana
+4/2/2020,47,Ozone,New Orleans,Louisiana
+4/3/2020,64,Ozone,New Orleans,Louisiana
+4/4/2020,51,Ozone,New Orleans,Louisiana
+4/5/2020,48,PM2.5,New Orleans,Louisiana
+4/6/2020,46,Ozone,New Orleans,Louisiana
+4/7/2020,31,Ozone,New Orleans,Louisiana
+4/8/2020,46,PM2.5,New Orleans,Louisiana
+4/9/2020,59,PM2.5,New Orleans,Louisiana
+4/10/2020,44,Ozone,New Orleans,Louisiana
+4/11/2020,46,Ozone,New Orleans,Louisiana
+4/12/2020,64,PM2.5,New Orleans,Louisiana
+4/13/2020,57,PM2.5,New Orleans,Louisiana
+4/3/2020,40,Ozone,Portland,Maine
+4/4/2020,38,Ozone,Portland,Maine
+4/5/2020,41,PM2.5,Portland,Maine
+4/6/2020,41,Ozone,Portland,Maine
+4/7/2020,43,Ozone,Portland,Maine
+4/8/2020,42,Ozone,Portland,Maine
+4/9/2020,44,Ozone,Portland,Maine
+4/10/2020,36,Ozone,Portland,Maine
+4/11/2020,39,Ozone,Portland,Maine
+4/12/2020,47,Ozone,Portland,Maine
+4/13/2020,47,Ozone,Portland,Maine
+3/31/2020,41,Ozone,Baltimore,Maryland
+4/1/2020,38,Ozone,Baltimore,Maryland
+4/2/2020,46,Ozone,Baltimore,Maryland
+4/3/2020,44,Ozone,Baltimore,Maryland
+4/4/2020,35,Ozone,Baltimore,Maryland
+4/5/2020,43,Ozone,Baltimore,Maryland
+4/6/2020,48,Ozone,Baltimore,Maryland
+4/7/2020,54,PM2.5,Baltimore,Maryland
+4/8/2020,51,Ozone,Baltimore,Maryland
+4/9/2020,45,Ozone,Baltimore,Maryland
+4/10/2020,42,Ozone,Baltimore,Maryland
+4/11/2020,47,Ozone,Baltimore,Maryland
+4/12/2020,49,Ozone,Baltimore,Maryland
+4/13/2020,44,Ozone,Baltimore,Maryland
+3/25/2020,41,Ozone,Boston,Massachusetts
+3/26/2020,44,Ozone,Boston,Massachusetts
+3/27/2020,43,Ozone,Boston,Massachusetts
+3/28/2020,49,PM2.5,Boston,Massachusetts
+3/29/2020,44,Ozone,Boston,Massachusetts
+3/30/2020,44,Ozone,Boston,Massachusetts
+3/31/2020,44,Ozone,Boston,Massachusetts
+4/1/2020,40,Ozone,Boston,Massachusetts
+4/2/2020,37,Ozone,Boston,Massachusetts
+4/3/2020,39,Ozone,Boston,Massachusetts
+4/4/2020,38,Ozone,Boston,Massachusetts
+4/5/2020,39,PM2.5,Boston,Massachusetts
+4/6/2020,42,Ozone,Boston,Massachusetts
+4/7/2020,45,Ozone,Boston,Massachusetts
+4/8/2020,43,Ozone,Boston,Massachusetts
+4/9/2020,44,Ozone,Boston,Massachusetts
+4/10/2020,36,Ozone,Boston,Massachusetts
+4/11/2020,40,Ozone,Boston,Massachusetts
+4/12/2020,48,Ozone,Boston,Massachusetts
+4/13/2020,46,PM2.5,Boston,Massachusetts
+3/25/2020,65,PM2.5,Detriot,Michigan
+3/26/2020,59,PM2.5,Detriot,Michigan
+3/27/2020,47,PM2.5,Detriot,Michigan
+3/28/2020,36,PM2.5,Detriot,Michigan
+3/29/2020,37,Ozone,Detriot,Michigan
+3/30/2020,33,Ozone,Detriot,Michigan
+3/31/2020,28,Ozone,Detriot,Michigan
+4/1/2020,38,PM2.5,Detriot,Michigan
+4/2/2020,43,PM2.5,Detriot,Michigan
+4/3/2020,58,PM2.5,Detriot,Michigan
+4/4/2020,51,PM2.5,Detriot,Michigan
+4/5/2020,35,PM2.5,Detriot,Michigan
+4/6/2020,59,PM2.5,Detriot,Michigan
+4/7/2020,53,PM2.5,Detriot,Michigan
+4/8/2020,42,Ozone,Detriot,Michigan
+4/9/2020,40,Ozone,Detriot,Michigan
+4/10/2020,42,Ozone,Detriot,Michigan
+4/11/2020,44,Ozone,Detriot,Michigan
+4/12/2020,45,PM2.5,Detriot,Michigan
+4/13/2020,38,Ozone,Detriot,Michigan
+3/28/2020,40,Ozone,Minneapolis,Minnesota
+3/29/2020,40,Ozone,Minneapolis,Minnesota
+3/30/2020,44,Ozone,Minneapolis,Minnesota
+3/31/2020,41,Ozone,Minneapolis,Minnesota
+4/1/2020,38,Ozone,Minneapolis,Minnesota
+4/2/2020,39,Ozone,Minneapolis,Minnesota
+4/3/2020,31,Ozone,Minneapolis,Minnesota
+4/4/2020,46,PM2.5,Minneapolis,Minnesota
+4/5/2020,52,PM2.5,Minneapolis,Minnesota
+4/6/2020,64,PM2.5,Minneapolis,Minnesota
+4/7/2020,60,PM2.5,Minneapolis,Minnesota
+4/8/2020,45,Ozone,Minneapolis,Minnesota
+4/9/2020,38,Ozone,Minneapolis,Minnesota
+4/10/2020,40,Ozone,Minneapolis,Minnesota
+4/11/2020,54,PM2.5,Minneapolis,Minnesota
+4/12/2020,39,Ozone,Minneapolis,Minnesota
+4/13/2020,37,Ozone,Minneapolis,Minnesota
+4/4/2020,74,PM2.5,Jackson,Mississippi
+4/5/2020,65,PM2.5,Jackson,Mississippi
+4/6/2020,70,PM2.5,Jackson,Mississippi
+4/7/2020,60,PM2.5,Jackson,Mississippi
+4/8/2020,71,PM2.5,Jackson,Mississippi
+4/9/2020,59,PM2.5,Jackson,Mississippi
+4/10/2020,44,Ozone,Jackson,Mississippi
+4/11/2020,44,PM2.5,Jackson,Mississippi
+4/12/2020,55,PM2.5,Jackson,Mississippi
+4/13/2020,35,PM2.5,Jackson,Mississippi
+4/7/2020,82,PM2.5,Kansas City,Missouri
+4/8/2020,107,PM2.5,Kansas City,Missouri
+4/9/2020,45,Ozone,Kansas City,Missouri
+4/10/2020,52,PM2.5,Kansas City,Missouri
+4/11/2020,58,PM2.5,Kansas City,Missouri
+4/12/2020,42,Ozone,Kansas City,Missouri
+4/13/2020,40,Ozone,Kansas City,Missouri
+3/29/2020,21,PM2.5,Billings,Montana
+3/30/2020,29,PM2.5,Billings,Montana
+3/31/2020,11,PM2.5,Billings,Montana
+4/1/2020,15,PM2.5,Billings,Montana
+4/2/2020,32,PM2.5,Billings,Montana
+4/3/2020,28,PM2.5,Billings,Montana
+4/4/2020,14,PM2.5,Billings,Montana
+4/5/2020,28,PM2.5,Billings,Montana
+4/6/2020,21,PM2.5,Billings,Montana
+4/7/2020,12,PM2.5,Billings,Montana
+4/8/2020,32,PM2.5,Billings,Montana
+4/9/2020,38,PM2.5,Billings,Montana
+4/10/2020,31,PM2.5,Billings,Montana
+4/11/2020,14,PM2.5,Billings,Montana
+4/12/2020,26,PM2.5,Billings,Montana
+4/13/2020,31,PM2.5,Billings,Montana
+4/1/2020,49,PM2.5,Omaha,Nebraska
+4/2/2020,35,PM2.5,Omaha,Nebraska
+4/3/2020,31,PM2.5,Omaha,Nebraska
+4/4/2020,38,Ozone,Omaha,Nebraska
+4/5/2020,40,Ozone,Omaha,Nebraska
+4/6/2020,34,PM2.5,Omaha,Nebraska
+4/7/2020,41,Ozone,Omaha,Nebraska
+4/8/2020,42,Ozone,Omaha,Nebraska
+4/9/2020,35,Ozone,Omaha,Nebraska
+4/10/2020,75,PM2.5,Omaha,Nebraska
+4/11/2020,93,PM2.5,Omaha,Nebraska
+4/12/2020,38,Ozone,Omaha,Nebraska
+4/13/2020,38,Ozone,Omaha,Nebraska
+4/2/2020,45,Ozone,Las Vegas,Nevada
+4/3/2020,48,Ozone,Las Vegas,Nevada
+4/4/2020,49,Ozone,Las Vegas,Nevada
+4/5/2020,43,Ozone,Las Vegas,Nevada
+4/6/2020,40,Ozone,Las Vegas,Nevada
+4/7/2020,39,Ozone,Las Vegas,Nevada
+4/8/2020,43,Ozone,Las Vegas,Nevada
+4/9/2020,44,Ozone,Las Vegas,Nevada
+4/10/2020,44,Ozone,Las Vegas,Nevada
+4/11/2020,45,Ozone,Las Vegas,Nevada
+4/12/2020,41,Ozone,Las Vegas,Nevada
+4/13/2020,49,Ozone,Las Vegas,Nevada
+3/28/2020,45,Ozone,Manchester,New Hampshire
+3/29/2020,44,Ozone,Manchester,New Hampshire
+3/30/2020,43,Ozone,Manchester,New Hampshire
+3/31/2020,44,Ozone,Manchester,New Hampshire
+4/1/2020,41,Ozone,Manchester,New Hampshire
+4/2/2020,33,Ozone,Manchester,New Hampshire
+4/3/2020,36,Ozone,Manchester,New Hampshire
+4/4/2020,38,Ozone,Manchester,New Hampshire
+4/5/2020,32,Ozone,Manchester,New Hampshire
+4/6/2020,41,Ozone,Manchester,New Hampshire
+4/7/2020,44,Ozone,Manchester,New Hampshire
+4/8/2020,44,Ozone,Manchester,New Hampshire
+4/9/2020,42,Ozone,Manchester,New Hampshire
+4/10/2020,34,Ozone,Manchester,New Hampshire
+4/11/2020,42,Ozone,Manchester,New Hampshire
+4/12/2020,49,Ozone,Manchester,New Hampshire
+4/13/2020,45,Ozone,Manchester,New Hampshire
+3/22/2020,41,Ozone,Newark,New Jersey
+3/23/2020,38,Ozone,Newark,New Jersey
+3/24/2020,39,Ozone,Newark,New Jersey
+3/25/2020,39,Ozone,Newark,New Jersey
+3/26/2020,44,Ozone,Newark,New Jersey
+3/27/2020,44,Ozone,Newark,New Jersey
+3/28/2020,42,Ozone,Newark,New Jersey
+3/29/2020,42,Ozone,Newark,New Jersey
+3/30/2020,43,PM2.5,Newark,New Jersey
+3/31/2020,41,Ozone,Newark,New Jersey
+4/1/2020,43,Ozone,Newark,New Jersey
+4/2/2020,41,Ozone,Newark,New Jersey
+4/3/2020,36,Ozone,Newark,New Jersey
+4/4/2020,40,Ozone,Newark,New Jersey
+4/5/2020,52,PM2.5,Newark,New Jersey
+4/6/2020,43,Ozone,Newark,New Jersey
+4/7/2020,50,Ozone,Newark,New Jersey
+4/8/2020,46,PM2.5,Newark,New Jersey
+4/9/2020,43,Ozone,Newark,New Jersey
+4/10/2020,38,Ozone,Newark,New Jersey
+4/11/2020,43,Ozone,Newark,New Jersey
+4/12/2020,47,Ozone,Newark,New Jersey
+4/13/2020,45,Ozone,Newark,New Jersey
+3/25/2020,54,Ozone,Albuquerque,New Mexico
+3/26/2020,42,Ozone,Albuquerque,New Mexico
+3/27/2020,50,Ozone,Albuquerque,New Mexico
+3/28/2020,45,Ozone,Albuquerque,New Mexico
+3/29/2020,48,Ozone,Albuquerque,New Mexico
+3/30/2020,48,Ozone,Albuquerque,New Mexico
+3/31/2020,49,Ozone,Albuquerque,New Mexico
+4/1/2020,50,Ozone,Albuquerque,New Mexico
+4/2/2020,46,Ozone,Albuquerque,New Mexico
+4/3/2020,48,Ozone,Albuquerque,New Mexico
+4/4/2020,45,Ozone,Albuquerque,New Mexico
+4/5/2020,47,Ozone,Albuquerque,New Mexico
+4/6/2020,50,Ozone,Albuquerque,New Mexico
+4/7/2020,47,Ozone,Albuquerque,New Mexico
+4/8/2020,54,Ozone,Albuquerque,New Mexico
+4/9/2020,50,Ozone,Albuquerque,New Mexico
+4/10/2020,61,Ozone,Albuquerque,New Mexico
+4/11/2020,64,Ozone,Albuquerque,New Mexico
+4/12/2020,45,Ozone,Albuquerque,New Mexico
+4/13/2020,42,Ozone,Albuquerque,New Mexico
+3/23/2020,38,Ozone,New York City,New York
+3/24/2020,39,Ozone,New York City,New York
+3/25/2020,39,Ozone,New York City,New York
+3/26/2020,44,Ozone,New York City,New York
+3/27/2020,44,Ozone,New York City,New York
+3/28/2020,42,Ozone,New York City,New York
+3/29/2020,42,Ozone,New York City,New York
+3/30/2020,43,PM2.5,New York City,New York
+3/31/2020,41,Ozone,New York City,New York
+4/1/2020,43,Ozone,New York City,New York
+4/2/2020,41,Ozone,New York City,New York
+4/3/2020,36,Ozone,New York City,New York
+4/4/2020,40,Ozone,New York City,New York
+4/5/2020,52,PM2.5,New York City,New York
+4/6/2020,43,Ozone,New York City,New York
+4/7/2020,50,Ozone,New York City,New York
+4/8/2020,46,PM2.5,New York City,New York
+4/9/2020,43,Ozone,New York City,New York
+4/10/2020,38,Ozone,New York City,New York
+4/11/2020,43,Ozone,New York City,New York
+4/12/2020,47,Ozone,New York City,New York
+4/13/2020,45,Ozone,New York City,New York
+4/1/2020,39,Ozone,Charlotte,North Carolina
+4/2/2020,42,Ozone,Charlotte,North Carolina
+4/3/2020,48,Ozone,Charlotte,North Carolina
+4/4/2020,54,Ozone,Charlotte,North Carolina
+4/5/2020,49,Ozone,Charlotte,North Carolina
+4/6/2020,58,Ozone,Charlotte,North Carolina
+4/7/2020,52,PM2.5,Charlotte,North Carolina
+4/8/2020,44,Ozone,Charlotte,North Carolina
+4/9/2020,46,Ozone,Charlotte,North Carolina
+4/10/2020,44,Ozone,Charlotte,North Carolina
+4/11/2020,50,Ozone,Charlotte,North Carolina
+4/12/2020,36,PM2.5,Charlotte,North Carolina
+4/13/2020,43,Ozone,Charlotte,North Carolina
+4/1/2020,36,Ozone,Fargo,North Dakota
+4/2/2020,26,Ozone,Fargo,North Dakota
+4/3/2020,34,Ozone,Fargo,North Dakota
+4/4/2020,39,Ozone,Fargo,North Dakota
+4/5/2020,33,Ozone,Fargo,North Dakota
+4/6/2020,59,PM2.5,Fargo,North Dakota
+4/7/2020,43,PM2.5,Fargo,North Dakota
+4/8/2020,40,Ozone,Fargo,North Dakota
+4/9/2020,34,Ozone,Fargo,North Dakota
+4/10/2020,33,Ozone,Fargo,North Dakota
+4/11/2020,11,PM2.5,Fargo,North Dakota
+4/12/2020,39,Ozone,Fargo,North Dakota
+4/13/2020,30,Ozone,Fargo,North Dakota
+3/24/2020,40,PM2.5,Columbus,Ohio
+3/25/2020,53,PM2.5,Columbus,Ohio
+3/26/2020,42,Ozone,Columbus,Ohio
+3/27/2020,37,PM2.5,Columbus,Ohio
+3/28/2020,48,PM2.5,Columbus,Ohio
+3/29/2020,43,Ozone,Columbus,Ohio
+3/30/2020,38,Ozone,Columbus,Ohio
+3/31/2020,31,Ozone,Columbus,Ohio
+4/1/2020,32,Ozone,Columbus,Ohio
+4/2/2020,40,Ozone,Columbus,Ohio
+4/3/2020,45,Ozone,Columbus,Ohio
+4/4/2020,51,Ozone,Columbus,Ohio
+4/5/2020,54,PM2.5,Columbus,Ohio
+4/6/2020,44,Ozone,Columbus,Ohio
+4/7/2020,46,PM2.5,Columbus,Ohio
+4/8/2020,40,Ozone,Columbus,Ohio
+4/9/2020,41,Ozone,Columbus,Ohio
+4/10/2020,36,Ozone,Columbus,Ohio
+4/11/2020,43,Ozone,Columbus,Ohio
+4/12/2020,39,Ozone,Columbus,Ohio
+4/13/2020,32,Ozone,Columbus,Ohio
+3/29/2020,50,Ozone,Oklahoma City,Oklahoma
+3/30/2020,42,Ozone,Oklahoma City,Oklahoma
+3/31/2020,48,Ozone,Oklahoma City,Oklahoma
+4/1/2020,48,Ozone,Oklahoma City,Oklahoma
+4/2/2020,42,Ozone,Oklahoma City,Oklahoma
+4/3/2020,27,PM2.5,Oklahoma City,Oklahoma
+4/4/2020,46,PM2.5,Oklahoma City,Oklahoma
+4/5/2020,50,PM2.5,Oklahoma City,Oklahoma
+4/6/2020,57,PM2.5,Oklahoma City,Oklahoma
+4/7/2020,44,Ozone,Oklahoma City,Oklahoma
+4/8/2020,90,Ozone,Oklahoma City,Oklahoma
+4/9/2020,56,PM2.5,Oklahoma City,Oklahoma
+4/10/2020,63,PM2.5,Oklahoma City,Oklahoma
+4/11/2020,43,PM2.5,Oklahoma City,Oklahoma
+4/12/2020,40,Ozone,Oklahoma City,Oklahoma
+4/13/2020,37,Ozone,Oklahoma City,Oklahoma
+3/24/2020,32,Ozone,Portland,Oregon
+3/25/2020,32,Ozone,Portland,Oregon
+3/26/2020,36,PM2.5,Portland,Oregon
+3/27/2020,35,Ozone,Portland,Oregon
+3/28/2020,35,Ozone,Portland,Oregon
+3/29/2020,32,Ozone,Portland,Oregon
+3/30/2020,35,Ozone,Portland,Oregon
+3/31/2020,36,Ozone,Portland,Oregon
+4/1/2020,30,Ozone,Portland,Oregon
+4/2/2020,29,Ozone,Portland,Oregon
+4/3/2020,27,Ozone,Portland,Oregon
+4/4/2020,27,Ozone,Portland,Oregon
+4/5/2020,31,Ozone,Portland,Oregon
+4/6/2020,33,PM2.5,Portland,Oregon
+4/7/2020,41,Ozone,Portland,Oregon
+4/8/2020,40,Ozone,Portland,Oregon
+4/9/2020,44,Ozone,Portland,Oregon
+4/10/2020,35,Ozone,Portland,Oregon
+4/11/2020,40,Ozone,Portland,Oregon
+4/12/2020,45,Ozone,Portland,Oregon
+4/13/2020,57,PM2.5,Portland,Oregon
+4/2/2020,44,Ozone,Pilladeplphia,Pennsylvania
+4/3/2020,40,Ozone,Pilladeplphia,Pennsylvania
+4/4/2020,34,Ozone,Pilladeplphia,Pennsylvania
+4/5/2020,51,PM2.5,Pilladeplphia,Pennsylvania
+4/6/2020,44,Ozone,Pilladeplphia,Pennsylvania
+4/7/2020,58,PM2.5,Pilladeplphia,Pennsylvania
+4/8/2020,48,PM2.5,Pilladeplphia,Pennsylvania
+4/9/2020,44,PM2.5,Pilladeplphia,Pennsylvania
+4/10/2020,39,PM2.5,Pilladeplphia,Pennsylvania
+4/11/2020,52,PM2.5,Pilladeplphia,Pennsylvania
+4/12/2020,60,PM2.5,Pilladeplphia,Pennsylvania
+4/13/2020,44,Ozone,Pilladeplphia,Pennsylvania
+3/29/2020,44,Ozone,Providence,Rhode Island
+3/30/2020,42,Ozone,Providence,Rhode Island
+3/31/2020,41,Ozone,Providence,Rhode Island
+4/1/2020,38,Ozone,Providence,Rhode Island
+4/2/2020,37,Ozone,Providence,Rhode Island
+4/3/2020,41,Ozone,Providence,Rhode Island
+4/4/2020,44,PM2.5,Providence,Rhode Island
+4/5/2020,44,PM2.5,Providence,Rhode Island
+4/6/2020,43,PM2.5,Providence,Rhode Island
+4/7/2020,49,Ozone,Providence,Rhode Island
+4/8/2020,48,PM2.5,Providence,Rhode Island
+4/9/2020,44,Ozone,Providence,Rhode Island
+4/10/2020,36,Ozone,Providence,Rhode Island
+4/11/2020,40,Ozone,Providence,Rhode Island
+4/12/2020,49,PM2.5,Providence,Rhode Island
+4/13/2020,69,PM2.5,Providence,Rhode Island
+4/8/2020,50,PM2.5,Charleston,South Carolina
+4/9/2020,51,Ozone,Charleston,South Carolina
+4/10/2020,50,Ozone,Charleston,South Carolina
+4/11/2020,47,Ozone,Charleston,South Carolina
+4/12/2020,49,Ozone,Charleston,South Carolina
+4/13/2020,47,PM2.5,Charleston,South Carolina
+4/1/2020,37,PM2.5,Sioux Falls,South Dakota
+4/2/2020,20,Ozone,Sioux Falls,South Dakota
+4/3/2020,26,Ozone,Sioux Falls,South Dakota
+4/4/2020,31,Ozone,Sioux Falls,South Dakota
+4/5/2020,32,Ozone,Sioux Falls,South Dakota
+4/6/2020,26,Ozone,Sioux Falls,South Dakota
+4/7/2020,42,PM2.5,Sioux Falls,South Dakota
+4/8/2020,42,Ozone,Sioux Falls,South Dakota
+4/9/2020,32,Ozone,Sioux Falls,South Dakota
+4/10/2020,33,Ozone,Sioux Falls,South Dakota
+4/11/2020,72,PM2.5,Sioux Falls,South Dakota
+4/12/2020,37,Ozone,Sioux Falls,South Dakota
+4/13/2020,33,Ozone,Sioux Falls,South Dakota
+4/1/2020,37,Ozone,Nashville,Tennessee
+4/2/2020,46,Ozone,Nashville,Tennessee
+4/3/2020,58,Ozone,Nashville,Tennessee
+4/4/2020,61,Ozone,Nashville,Tennessee
+4/5/2020,52,PM2.5,Nashville,Tennessee
+4/6/2020,61,Ozone,Nashville,Tennessee
+4/7/2020,51,PM2.5,Nashville,Tennessee
+4/8/2020,39,Ozone,Nashville,Tennessee
+4/9/2020,47,Ozone,Nashville,Tennessee
+4/10/2020,43,Ozone,Nashville,Tennessee
+4/11/2020,50,Ozone,Nashville,Tennessee
+4/12/2020,39,Ozone,Nashville,Tennessee
+4/13/2020,34,Ozone,Nashville,Tennessee
+4/3/2020,49,Ozone,Houston,Texas
+4/4/2020,47,Ozone,Houston,Texas
+4/5/2020,58,PM2.5,Houston,Texas
+4/6/2020,54,PM2.5,Houston,Texas
+4/7/2020,56,PM2.5,Houston,Texas
+4/8/2020,75,PM2.5,Houston,Texas
+4/9/2020,67,Ozone,Houston,Texas
+4/10/2020,49,Ozone,Houston,Texas
+4/11/2020,46,Ozone,Houston,Texas
+4/12/2020,66,PM2.5,Houston,Texas
+4/13/2020,47,Ozone,Houston,Texas
+3/31/2020,45,Ozone,Salt Lake City,Utah
+4/1/2020,44,Ozone,Salt Lake City,Utah
+4/2/2020,41,Ozone,Salt Lake City,Utah
+4/3/2020,44,Ozone,Salt Lake City,Utah
+4/4/2020,46,Ozone,Salt Lake City,Utah
+4/5/2020,48,Ozone,Salt Lake City,Utah
+4/6/2020,44,Ozone,Salt Lake City,Utah
+4/7/2020,43,Ozone,Salt Lake City,Utah
+4/8/2020,45,Ozone,Salt Lake City,Utah
+4/9/2020,40,Ozone,Salt Lake City,Utah
+4/10/2020,51,Ozone,Salt Lake City,Utah
+4/11/2020,44,Ozone,Salt Lake City,Utah
+4/12/2020,46,Ozone,Salt Lake City,Utah
+4/13/2020,47,Ozone,Salt Lake City,Utah
+3/26/2020,44,Ozone,Burlington,Vermont
+3/27/2020,38,Ozone,Burlington,Vermont
+3/28/2020,44,Ozone,Burlington,Vermont
+3/29/2020,45,Ozone,Burlington,Vermont
+3/30/2020,43,Ozone,Burlington,Vermont
+3/31/2020,45,Ozone,Burlington,Vermont
+4/1/2020,41,Ozone,Burlington,Vermont
+4/2/2020,31,Ozone,Burlington,Vermont
+4/3/2020,39,Ozone,Burlington,Vermont
+4/4/2020,37,Ozone,Burlington,Vermont
+4/5/2020,38,Ozone,Burlington,Vermont
+4/6/2020,41,Ozone,Burlington,Vermont
+4/7/2020,21,PM2.5,Burlington,Vermont
+4/8/2020,42,Ozone,Burlington,Vermont
+4/9/2020,39,Ozone,Burlington,Vermont
+4/10/2020,38,Ozone,Burlington,Vermont
+4/11/2020,39,Ozone,Burlington,Vermont
+4/12/2020,27,PM2.5,Burlington,Vermont
+4/13/2020,46,Ozone,Burlington,Vermont
+3/31/2020,41,Ozone,Virginia Beach,Virginia
+4/1/2020,41,Ozone,Virginia Beach,Virginia
+4/2/2020,45,Ozone,Virginia Beach,Virginia
+4/3/2020,46,Ozone,Virginia Beach,Virginia
+4/4/2020,33,Ozone,Virginia Beach,Virginia
+4/5/2020,39,Ozone,Virginia Beach,Virginia
+4/6/2020,42,Ozone,Virginia Beach,Virginia
+4/7/2020,41,Ozone,Virginia Beach,Virginia
+4/8/2020,45,Ozone,Virginia Beach,Virginia
+4/9/2020,45,Ozone,Virginia Beach,Virginia
+4/10/2020,41,Ozone,Virginia Beach,Virginia
+4/11/2020,42,Ozone,Virginia Beach,Virginia
+4/12/2020,45,Ozone,Virginia Beach,Virginia
+4/13/2020,39,Ozone,Virginia Beach,Virginia
+3/24/2020,31,Ozone,Seattle,Washington
+3/25/2020,39,PM2.5,Seattle,Washington
+3/26/2020,44,PM2.5,Seattle,Washington
+3/27/2020,40,PM2.5,Seattle,Washington
+3/28/2020,33,Ozone,Seattle,Washington
+3/29/2020,35,Ozone,Seattle,Washington
+3/30/2020,34,Ozone,Seattle,Washington
+3/31/2020,35,Ozone,Seattle,Washington
+4/1/2020,36,PM2.5,Seattle,Washington
+4/2/2020,43,PM2.5,Seattle,Washington
+4/3/2020,32,Ozone,Seattle,Washington
+4/4/2020,35,PM2.5,Seattle,Washington
+4/5/2020,40,PM2.5,Seattle,Washington
+4/6/2020,43,PM2.5,Seattle,Washington
+4/7/2020,55,PM2.5,Seattle,Washington
+4/8/2020,57,PM2.5,Seattle,Washington
+4/9/2020,52,PM2.5,Seattle,Washington
+4/10/2020,55,PM2.5,Seattle,Washington
+4/11/2020,47,PM2.5,Seattle,Washington
+4/12/2020,49,PM2.5,Seattle,Washington
+4/13/2020,45,PM2.5,Seattle,Washington
+3/25/2020,46,PM2.5,Charleston,West Virginia
+3/26/2020,46,Ozone,Charleston,West Virginia
+3/27/2020,44,Ozone,Charleston,West Virginia
+3/28/2020,44,PM2.5,Charleston,West Virginia
+3/29/2020,49,Ozone,Charleston,West Virginia
+3/30/2020,48,Ozone,Charleston,West Virginia
+3/31/2020,31,Ozone,Charleston,West Virginia
+4/1/2020,26,Ozone,Charleston,West Virginia
+4/2/2020,42,Ozone,Charleston,West Virginia
+4/3/2020,47,Ozone,Charleston,West Virginia
+4/4/2020,61,Ozone,Charleston,West Virginia
+4/5/2020,61,Ozone,Charleston,West Virginia
+4/6/2020,40,PM2.5,Charleston,West Virginia
+4/7/2020,44,Ozone,Charleston,West Virginia
+4/8/2020,39,Ozone,Charleston,West Virginia
+4/9/2020,48,Ozone,Charleston,West Virginia
+4/10/2020,37,Ozone,Charleston,West Virginia
+4/11/2020,47,Ozone,Charleston,West Virginia
+4/12/2020,44,Ozone,Charleston,West Virginia
+3/26/2020,45,PM2.5,Milwaukee,Wisconsin
+3/27/2020,52,PM2.5,Milwaukee,Wisconsin
+3/28/2020,35,PM2.5,Milwaukee,Wisconsin
+3/29/2020,35,Ozone,Milwaukee,Wisconsin
+3/30/2020,38,Ozone,Milwaukee,Wisconsin
+3/31/2020,30,Ozone,Milwaukee,Wisconsin
+4/1/2020,30,PM2.5,Milwaukee,Wisconsin
+4/2/2020,40,PM2.5,Milwaukee,Wisconsin
+4/3/2020,46,Ozone,Milwaukee,Wisconsin
+4/4/2020,33,PM2.5,Milwaukee,Wisconsin
+4/5/2020,42,PM2.5,Milwaukee,Wisconsin
+4/6/2020,56,PM2.5,Milwaukee,Wisconsin
+4/7/2020,63,PM2.5,Milwaukee,Wisconsin
+4/8/2020,59,PM2.5,Milwaukee,Wisconsin
+4/9/2020,38,Ozone,Milwaukee,Wisconsin
+4/10/2020,36,Ozone,Milwaukee,Wisconsin
+4/11/2020,64,PM2.5,Milwaukee,Wisconsin
+4/12/2020,52,PM2.5,Milwaukee,Wisconsin
+4/13/2020,39,Ozone,Milwaukee,Wisconsin
+3/29/2020,41,Ozone,Cheyenne,Wyoming
+3/30/2020,39,Ozone,Cheyenne,Wyoming
+3/31/2020,41,Ozone,Cheyenne,Wyoming
+4/1/2020,41,Ozone,Cheyenne,Wyoming
+4/2/2020,31,Ozone,Cheyenne,Wyoming
+4/3/2020,38,Ozone,Cheyenne,Wyoming
+4/4/2020,40,Ozone,Cheyenne,Wyoming
+4/5/2020,42,Ozone,Cheyenne,Wyoming
+4/6/2020,46,Ozone,Cheyenne,Wyoming
+4/7/2020,44,Ozone,Cheyenne,Wyoming
+4/8/2020,34,Ozone,Cheyenne,Wyoming
+4/9/2020,42,Ozone,Cheyenne,Wyoming
+4/10/2020,44,Ozone,Cheyenne,Wyoming
+4/11/2020,45,Ozone,Cheyenne,Wyoming
+4/12/2020,35,Ozone,Cheyenne,Wyoming
+4/13/2020,38,Ozone,Cheyenne,Wyoming
