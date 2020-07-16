@@ -1,4 +1,4 @@
-# Project2 - Data Visualization Project
+Data Visualization Project
 
 ## Table of contents
 * [Motivation](##Motivation)
@@ -97,10 +97,6 @@ The project is created with:
 6. Designing the look of the dashboard
     * Bootstrap powerful and interactive tool (https://www.layoutit.com/build) were used to build the bones of the html.
     * CSS and Bootstrap built in tools were used to create the simple and clean design of the websites. 
-
-## Project_responsibilties
-* Break down of Project Assignments within our group: 
-https://docs.google.com/spreadsheets/d/14PtkbfDkOP0kdh3zeTHRWK9urt74rpgKV5Qdfnh0gg8/edit?usp=sharing
 
 ## Credits
 @ DanielLove
